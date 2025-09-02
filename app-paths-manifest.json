@@ -1,0 +1,16 @@
+{
+  "/api/stats/route": "app/api/stats/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/signup/page": "app/auth/signup/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/page": "app/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/donate/page": "app/donate/page.js",
+  "/request/page": "app/request/page.js",
+  "/dashboard/donor/page": "app/dashboard/donor/page.js",
+  "/dashboard/ngo/page": "app/dashboard/ngo/page.js",
+  "/dashboard/nearby/page": "app/dashboard/nearby/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/blockchain/page": "app/dashboard/blockchain/page.js",
+  "/dashboard/patient/page": "app/dashboard/patient/page.js"
+}

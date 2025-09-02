@@ -1,0 +1,16 @@
+{
+  "/api/stats/route": "/api/stats",
+  "/_not-found/page": "/_not-found",
+  "/auth/signup/page": "/auth/signup",
+  "/contact/page": "/contact",
+  "/page": "/",
+  "/auth/login/page": "/auth/login",
+  "/donate/page": "/donate",
+  "/request/page": "/request",
+  "/dashboard/donor/page": "/dashboard/donor",
+  "/dashboard/ngo/page": "/dashboard/ngo",
+  "/dashboard/nearby/page": "/dashboard/nearby",
+  "/dashboard/page": "/dashboard",
+  "/dashboard/blockchain/page": "/dashboard/blockchain",
+  "/dashboard/patient/page": "/dashboard/patient"
+}
