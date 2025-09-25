@@ -3,6 +3,10 @@
 > **From Surplus to Saving Lives** ✨  
 Bridging the gap between surplus medicines and patients in need through a **transparent, trackable, and trustworthy platform**.  
 
+<p align="center">
+  🚀 <a href="https://medi-connect-teal.vercel.app/" target="_blank"><b>🔗 Live Project Demo</b></a> 🚀
+</p>
+
 ---
 
 ## 📌 The Critical Problem
